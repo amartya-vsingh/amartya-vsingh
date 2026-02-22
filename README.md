@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amartya Vikram Singh</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist & Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya-vsingh&label=Profile%20views&color=0e75b6&style=flat" alt="amartya-vsingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartya-vsingh" alt="amartya-vsingh" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Data Science & Data Analytics**
 
 - 🌱 I’m currently learning **MySOL, Power BI , Excel, Python, Scikit Learn, Pytorch, Pandas**
 
